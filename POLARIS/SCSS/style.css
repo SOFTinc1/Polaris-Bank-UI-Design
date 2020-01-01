@@ -1,0 +1,486 @@
+#zinho{
+	background: rgb(82, 23, 82);
+	height: 50px;
+	margin-top: 10px;
+}
+.pen{
+	background: rgb(206, 138, 12);
+	padding-top: 25px;
+	padding-bottom: 20px;
+	margin-top: 5px;
+	margin-left: 150px;
+	font-size: 12px;
+}
+.pen ul li a{
+	color: #fff;
+	font-weight: bold;
+}
+.pen ul li a:hover{
+	color: rgb(82, 23, 82);
+	font-weight: bold;
+}
+.pen a.active{
+	background: white;
+	padding-top: 27px;
+	padding-bottom: 22px;
+	color: black;
+} 
+
+.note{
+	margin-left: 20px;
+	padding: 10px;
+}
+.note ul li a{
+	margin-right: 20px;
+	color: #fff;
+	font-size: 12px;
+	font-family: bold; 
+}
+.note ul li a:hover{
+	color: rgb(206, 138, 12);
+	font-weight: bold;
+}
+#always{
+	margin-top: 20px;
+	border: 2px solid rgb(82, 23, 82);
+	box-shadow: 0px 0px 4px 0px rgb(82, 23, 82);
+}
+#always img{
+	width: 80px;
+	box-shadow: 0px 0px 10px 0px purple;
+}
+#always img:hover{
+	transition: all .9s ease-out;
+	transform: scale(1.1);
+}
+#always h3{
+	color: rgb(82, 23, 82);
+}
+#always ul li{
+	margin-right: 100px;
+}
+#always ul li a{
+	color: rgb(82, 23, 82);
+	padding: 10px;
+	font-size: 15px;
+}
+#always ul li a:hover{
+	color: rgb(206, 138, 12);
+	font-weight:bold;
+}
+.myshowcase{
+	background: url('../img/maui_ab2fde37.jpeg');
+	position: relative;
+	margin-top: -50px;
+	repeat: no-repeat;
+}
+.dark-overlay{
+	background: rgb(82, 23, 82);
+	opacity: 0.9;
+	min-height:500px;
+	top: 0;
+	left: 0;
+}
+#showcase h3{
+	margin-top: 100px;
+	color: rgb(206, 138, 12);
+	padding:10px;
+	margin-left: 200px;
+}
+#showcase p{
+	color: white;
+	padding:10px;
+	margin-left: 200px;
+}
+#showcase button{
+	background: rgb(206, 138, 12);
+	color: white;
+	padding:10px;
+	margin-left: 200px;
+}
+#showcase button:hover{
+	border: 2px solid white;
+	background: rgb(82, 23, 82);
+}
+#showcase img{
+	margin-top: 25px;
+	width: 250px;
+	margin-left: 70px;
+}
+#showcase .racheal{
+	margin-left: 500px;
+	margin-top: 50px;
+	background: url('../img/maui_ab2fde37.jpeg');
+	width: 300px;
+	margin-top: 100px;
+	box-shadow: 0px 0px 12px 0px rgb(206, 138, 12);
+	opacity: ;
+}
+#newsletter{
+	background: rgb(82, 23, 82);
+	padding: -50px;
+	opacity: 0.8;
+}
+#newsletter .form1{
+	margin-left: 100px;
+	margin-top: 30px;
+}
+#newsletter .form2{
+	margin-right: 100px;
+	margin-top: 30px;
+}
+#book{
+	background: #fff;
+	margin-top: -50px;
+}
+#book h3{
+	color: rgb(82, 23, 82);
+	padding: 30px;
+}
+.samson form button{
+	background: rgb(206, 138, 12);
+	color: white;
+}
+.samson form button:hover{
+	border: 2px solid white;
+	background: transparent;
+}
+.samson{
+	background: rgb(82, 23, 82);
+	padding-top: 30px;
+}
+.border1{
+    border-bottom:4px solid rgb(82, 23, 82);
+    width:100px;
+    margin-left:580px;
+    padding:10px;
+    margin-bottom: 50px;	
+}
+#newsletter button{
+	background: rgb(206, 138, 12);
+	color: white;
+}
+#newsletter button:hover{
+	border: 2px solid white;
+	background: rgb(82, 23, 82);
+	color: #fff;
+}
+.desola{
+	background: url('../img/maui_ab2fde37.jpeg');
+	opacity: 0.8;
+	border: 2px solid rgb(82, 23, 82);
+	box-shadow: 0px 0px 10px 0px rgb(82, 23, 82);
+	margin-right: 30px;
+}
+.desola:hover{
+	background: rgb(206, 138, 12);
+	opacity: 0.8;
+	border: 2px solid rgb(206, 138, 12);
+	box-shadow: 0px 0px 10px 0px;
+}
+#news .desola img{
+	margin-left: 150px;
+	width: 100px;
+	height: 100px;
+	border: 4px solid rgb(82, 23, 82);
+}
+#news .desola img:hover{
+	border: 4px solid rgb(206, 138, 12);
+	background: transparent;
+}
+#news h3,h5{
+	font-size: 13px;
+	font-weight: bold;
+}
+#news .desola button{
+	background: rgb(82, 23, 82);
+	color: white;
+}
+#news .desola button:hover{
+	border: 4px solid #fff;
+	background: transparent;
+}
+
+#opeke{
+	background: #fff;
+	margin-top: -50px;
+}
+#opeke h3{
+	color: rgb(82, 23, 82);
+	padding: 30px;
+}
+.border2{
+    border-bottom:4px solid rgb(82, 23, 82);
+    width:100px;
+    margin-left:588px;
+    padding:5px;
+    margin-bottom: 50px;	
+}
+#news .fab{
+	color: rgb(82, 23, 82);
+}
+#news .fab:hover{
+	background: rgb(206, 138, 12);
+	color: white;
+}
+#foot{
+	background: rgb(82, 23, 82);
+	padding: 50px;
+}
+
+#foot .footwear .foot-contact {
+	margin-left: 50px;
+}
+#foot .footwear .foot-contact h3{
+    color:#fff;
+    margin-top:10px;
+    padding: 20px;
+}
+
+#foot .footwear .foot-contact p{
+    color: #fff;
+    border-bottom: 1px solid #aaa;
+    width: 50%;
+}
+#foot .footwear {
+	margin-left: 50px;
+}
+#foot .footwear h2{
+    color:#fff;
+    margin-top:10px;
+    padding: 20px;
+}
+#foot .footwear a{
+    color:#fff;
+    background: rgb(206, 138, 12);
+    margin-left: 10px;
+}
+#foot .footwear a:hover{
+        border: 1px solid #fff;
+	background: transparent;
+}
+#foot .footwear .foot-contact a{
+    color: #fff;
+}
+#foot .footwear p{
+    color: #fff;
+}
+#footer-bottom .footer_bottom{
+     text-align:center;
+     height:auto;
+}
+
+.footer_bottom .wow{
+    font-family:"futura_ltbold",sans-serif;
+    padding:20px;
+    font-size:11px;
+    color:#aaa;
+}
+#team .mariam img{
+	width: 200px;
+	height: 200px;
+	border-bottom: 10px solid purple;
+}
+
+#soft{
+	background: #fff;
+	margin-top: -50px;
+}
+#soft h3{
+	color: rgb(82, 23, 82);
+	padding: 30px;
+}
+#beans{
+	background: rgb(82, 23, 82);
+}
+#beans img{
+	width: 100px;
+	height: 100px;
+        border: 5px solid rgb(82, 23, 82);
+	margin-bottom: -50px;
+	margin-right: 50px;
+}
+#beans h3{
+	font-size: 17px;
+	padding: 20px;
+	margin-left: 220px;
+}
+#beans a{
+	margin-left: 50px;
+}
+#dash h2{
+	font-size: 20px;
+}
+#dash{
+	margin-top: -27px;
+	background: rgb(82, 23, 82);
+}
+#action a{
+	margin-left: 150px;  
+}
+#action .action1 a{
+	background: #007bff;
+	color: #fff;
+}
+#action .action1 a:hover{
+	border: 1px solid #007bff;
+	background: transparent;
+	color: #007bff;
+}
+#action .action2 a:hover{
+	border: 1px solid #ffc107;
+	background: transparent;
+	color: #ffc107;
+}
+#action .action3 a:hover{
+	border: 1px solid #dc3545;
+	background: transparent;
+	color: #dc3545;
+}
+#transaction .adebayo table{
+	border-collapse: collapse;
+}
+.adebayo{
+	margin-left:40px;
+	margin-top: 10px;
+}
+.olodo{
+	margin-left: -10px;
+	margin-top: 23px;
+}
+#pagination ul li a{
+	color: black;
+}
+#pagination a.active{
+	background: #007bff;
+	color: #fff;
+} 
+#details a{
+	background: rgb(82, 23, 82);
+	color: white;
+}
+.modal-header{
+	background: url('../img/maui_ab2fde37.jpeg');
+	opacity: 0.8;
+}
+.modal-body{
+	background: url('../img/maui_ab2fde37.jpeg');
+	opacity: 0.8;
+}
+.modal-footer{
+	background: url('../img/maui_ab2fde37.jpeg');
+	opacity: 0.8;
+}
+.timeline{
+	margin-bottom: 100px;
+}
+.timeline img{
+	width: 150px;
+	height: 150px;
+	margin-left: 720px;
+	margin-top: -170px;
+	border: 2px solid #fff;
+	box-shadow: 1px 1px 10px 1px #000; 
+	max-width: 100%;	
+    transition: all .8s ease-out;
+}
+.timeline img:hover{
+	transform: scale(1.1);
+	box-shadow: 1px 1px 10px 1px purple; 
+}
+.timeline h4{
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 900px;
+	color: purple;
+} 
+.timeline h3{
+	font-weight: bold;
+	font-size: 10px;
+	color: rgb(75, 73, 73);
+	margin-left: 900px;
+}
+.timeline p{
+	font-size: 15px;
+	margin-top: 5px;
+	margin-left: 900px;
+	color: #aaa;
+}
+.timeline button{
+	margin-left: 900px;
+	background: purple;
+	border: 1px solid purple;
+	max-width: 100%;	
+    transition: all .9s ease-out;
+}
+.timeline button:hover{
+	transform: scale(1.1);
+}
+.timeline2 img{
+	width: 150px;
+	height: 150px;
+	margin-left: 450px;
+	margin-top: ;
+	border: 2px solid #fff;
+	box-shadow: 1px 1px 10px 1px #000; 
+	max-width: 100%;	
+    transition: all .8s ease-out;
+}
+.timeline2 img:hover{
+	transform: scale(1.1);
+	box-shadow: 1px 1px 10px 1px purple; 
+}
+.timeline2 h4{
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 200px;
+	margin-top: -150px;
+	color: purple;
+} 
+.timeline2 h3{
+	font-weight: bold;
+	font-size: 10px;
+	color: rgb(75, 73, 73);
+	margin-left: 200px;
+}
+.timeline2 p{
+	font-size: 15px;
+	margin-top: 5px;
+	margin-left: 200px;
+	color: #aaa;
+}
+.timeline2 button{
+	margin-left: ;
+	background: purple;
+	border: 1px solid purple;
+	margin-left: 200px;
+	max-width: 100%;	
+	transition: all .9s ease-out;
+}
+.timeline2 button:hover{
+	transform: scale(1.1);
+	background: transparent;
+	color: blue;
+}
+.timeline, .timeline2{
+	margin-bottom: 100px;
+}
+.ayomide .card{
+	margin-left: 400px;
+}	
+.ayomide form input{
+	width: 100%;
+	border-radius: px;
+	border-right: 0px;
+	border-left: 0px;
+	border-top: 0px;
+	border-bottom: 1px solid black;
+}			
+.ayomide form a{
+	margin-top: 10px;
+	float: right;
+}
+nav .sekinat h3{
+	color: white;
+	font-size: 15px;
+}
